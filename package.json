@@ -1,0 +1,26 @@
+{
+  "name": "serasure",
+  "version": "1.0.0",
+  "description": "Erasure codes for data storage",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lamphamsy/serasure.git"
+  },
+  "keywords": [
+    "erasure",
+    "codes",
+    "data",
+    "storage",
+    "streaming"
+  ],
+  "author": "Lam PHAM SY <lam.pham-sy@scality.com> (http://www.scality.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lamphamsy/serasure/issues"
+  },
+  "homepage": "https://github.com/lamphamsy/serasure#README",
+  "scripts": {
+    "start": "node init.js"
+  }
+}
